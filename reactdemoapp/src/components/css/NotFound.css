@@ -1,0 +1,11 @@
+@media all and (min-width: 340px) {
+  .NotFound {
+    padding: 80px;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .NotFound h1 {
+    padding: 30px;
+  }
+}

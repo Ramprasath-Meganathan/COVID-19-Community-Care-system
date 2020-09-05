@@ -1,0 +1,14 @@
+/* .form-control:focus{
+  border-color: #5cb85c;  
+  box-shadow: none; 
+}  */
+
+.fielddescription {
+  text-align: center;
+  font-size: 80%;
+  font-weight: 400;
+}
+
+.form Label {
+  font-weight: 600;
+}

@@ -1,0 +1,30 @@
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px;
+}
+
+.jumbotron {
+  padding: 70px 30px 70px 30px;
+  margin: 0px auto;
+  background: #9575cd;
+}
+
+.FooterToTop {
+  background-color: #37475a;
+}
+
+.FooterToTop:hover {
+  background-color: #485769;
+  cursor: pointer;
+}
+
+.FooterToTop span {
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 15px 0;
+  line-height: 19px;
+  font-size: 13px;
+}

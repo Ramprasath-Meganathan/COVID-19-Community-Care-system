@@ -1,0 +1,13 @@
+/**
+ * The author of the file is Yaswanth Chiruvella - B00849892.
+ */
+.products {
+  margin: 0px auto;
+  padding: 20px 0px 20px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px;
+}
+
+.card {
+  margin: 10px;
+}

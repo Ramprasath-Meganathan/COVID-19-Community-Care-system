@@ -1,0 +1,31 @@
+@media all and (min-width: 340px) {
+  .row-content {
+    margin: 0px auto;
+  }
+
+  .ContactUs form {
+    margin: 0 auto;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 40px;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 0px 0px 50px #555;
+    background-color: white;
+  }
+  .ContactUs h3 {
+    color: #111;
+    font-weight: 600;
+    font-size: x-large;
+  }
+
+  .ContactUs small {
+    padding-bottom: 20px;
+  }
+
+  .ContactUs Label {
+    color: #111;
+    font-weight: 600;
+  }
+}
